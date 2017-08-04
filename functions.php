@@ -1,6 +1,6 @@
 <?php
 
-/* Load all stylesheets */
+// Load all stylesheets
 
 function theme_styles() {
 	wp_enqueue_style( 'style', get_stylesheet_uri(), null, '0.1.0' );
