@@ -39,6 +39,12 @@ You'll also need a database to store Wordpress data. Again there are many ways t
 
 The last step is to download this theme into the `wp-content/themes` directory of your Wordpress directory. You can download the zip and unzip it there, or navigate there in the command line and use Git to clone it.
 
+## Deploying
+
+When you're ready to get Wordpress running on a server for staging or production, here are some steps you can use to get started. There are many ways to deploy a Wordpress site, but this is a common workflow:
+
+1. Coming soon...
+
 ## Contributing
 
 1. Fork it!
