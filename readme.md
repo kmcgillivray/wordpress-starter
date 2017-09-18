@@ -37,7 +37,12 @@ You'll also need a database to store Wordpress data. Again there are many ways t
 
 ### Set up this theme
 
-The last step is to download this theme into the `wp-content/themes` directory of your Wordpress directory. You can download the zip and unzip it there, or navigate there in the command line and use Git to clone it.
+The last step is to install and run the theme.
+
+1. Download this theme into the `wp-content/themes` directory of your Wordpress directory. You can download the zip and unzip it there, or navigate there in the command line and use Git to clone it.
+2. If you don't have NPM, install it by installing [Node](https://nodejs.org).
+3. Navigate to the theme directory in the command line if you haven't already and run `npm install`
+4. If you're using WP-CLI, start the server and build the stylesheet by running `npm start`. Otherwise, run `npm watch` and run the server with MAMP or your own method.
 
 ## Deploying
 
