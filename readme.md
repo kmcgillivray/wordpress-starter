@@ -1,4 +1,4 @@
-# Sandcastle Wordpress Starter Theme
+# Wordpress Starter Theme
 
 A simple-as-possible starter theme and steps for setting up a local Wordpress environment for development.
 
@@ -62,4 +62,4 @@ When you're ready to get Wordpress running on a server for staging or production
 
 ## Credits
 
-Made by [Sandcastle](http://sandcastle.co).
+Made by [Kevin McGillivray](https://kevinmcgillivray.net/about).

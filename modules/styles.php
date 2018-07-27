@@ -1,5 +1,7 @@
 <?php
 
+// Load fonts and styles into theme
+
 // If loading fonts from Google Fonts or Typekit, put URL here
 $font_url = null;
 

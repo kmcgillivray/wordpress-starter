@@ -1,5 +1,7 @@
 <?php
 
+// Add support for multiple Wordpress menus
+
 function register_menus() {
 	register_nav_menus(
 		array(
